@@ -29,8 +29,8 @@ function App() {
             ref={provided.innerRef}
             {...provided.droppableProps}
             style={{
-              width: "100vw",
-              height: "100vh",
+              width: "400px",
+              height: "200px",
               position: "relative",
               backgroundColor: "#f8f8f8",
               overflow: "hidden",
